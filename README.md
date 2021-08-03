@@ -1,9 +1,7 @@
-## Hello, I'm Ihago!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
+## Hello, i'm Ihago! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
  
-I'm a full-stack developer and i fhave a Bachelor's Degree in Computer Science from the Universidade Federal Rural de Pernambuco - UFRPE.
-</br></br>
-I keep learning new stuffs every day.
- 
+I'm Bachelor in Computer Science from the Rural Federal University of Pernambuco (UFRPE) and full-stack developer at <a href="https://www.showtecnologia.com/" target="_blank">Show Tecnologia</a>.
+
 ## About me 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/ihago-santos/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ihagoSantos)](https://github.com/ihagoSantos)
@@ -16,7 +14,7 @@ I keep learning new stuffs every day.
 <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='20'> <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='20'>
 
 
-## FrameWorks:
+## Libraries and FrameWorks:
 
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='node.js' height='20'> <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='20'> <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jquery' height='20'> <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='docker' height='20'>
 
